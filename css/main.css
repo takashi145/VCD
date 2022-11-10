@@ -65,9 +65,6 @@ header .active {
   color: rgb(254, 248, 248);
   font-family:serif;
   font-size: x-large;
-}
-
-.logo {
   display: flex;
 }
 
