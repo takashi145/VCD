@@ -48,10 +48,16 @@ ul {
 
 a {
   text-decoration: none;
-  color: white;
+  color: rgb(167, 165, 165);
 }
 
 a:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+header .active {
+  color: white;
   text-decoration: underline;
 }
 
@@ -61,10 +67,11 @@ a:hover {
   font-size: x-large;
 }
 
-.category_title {
-  color: white;
-  font-family:serif;
-  font-size: 3em;
-  text-decoration:underline;
-  text-align: center;
+.logo {
+  display: flex;
+}
+
+.logo img {
+  width: 50px;
+  margin-right: 10px;
 }

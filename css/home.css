@@ -36,3 +36,11 @@
   border-bottom: 1px solid gray;
   margin-bottom: 30px;
 }
+
+.category_title {
+  color: white;
+  font-family:serif;
+  font-size: 3em;
+  text-align: center;
+}
+

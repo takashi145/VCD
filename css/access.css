@@ -20,7 +20,15 @@
   margin: 20px 0;
 }
 
-img {
+.info img {
   width: 500px;
   border-radius: 3px;
+}
+
+.category_title {
+  color: white;
+  font-family:serif;
+  font-size: 3em;
+  text-decoration:underline;
+  text-align: center;
 }

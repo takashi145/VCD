@@ -44,8 +44,8 @@
   justify-content: center;
 }
 
-img {
-  width: 25%;
+.cource img {
+  width: 20%;
   margin: 10px;
 }
 
@@ -59,4 +59,12 @@ img {
 
 .cource_list li {
   margin-bottom: 10px;
+}
+
+.category_title {
+  color: white;
+  font-family:serif;
+  font-size: 3em;
+  text-decoration:underline;
+  text-align: center;
 }

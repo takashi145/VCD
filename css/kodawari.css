@@ -13,8 +13,16 @@
   border-bottom: 1px solid gray;
 }
 
-img {
+.obsession img {
   width: 20%;
   margin: 10px 10px;
   border-radius: 3px;
+}
+
+.category_title {
+  color: white;
+  font-family:serif;
+  font-size: 3em;
+  text-decoration:underline;
+  text-align: center;
 }
