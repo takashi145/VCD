@@ -1,0 +1,26 @@
+.info {
+  text-align: center;
+  color: white;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.info table{
+  margin: auto;
+  font-size: x-large;
+}
+
+.info table td {
+  text-align: left;
+}
+
+.info p{
+  font-size: small;
+  color: rgb(179, 176, 176);
+  margin: 20px 0;
+}
+
+img {
+  width: 500px;
+  border-radius: 3px;
+}
